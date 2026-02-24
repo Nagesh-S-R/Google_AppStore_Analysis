@@ -1,12 +1,12 @@
-EDA on Google AppStore Rating Dataset.
-Domain: Mobile device apps.
-Content :
+# EDA on Google AppStore Rating Dataset.
+## Domain: Mobile device apps.
+### Content :
 The Play Store apps data has enormous potential to drive app-making businesses to success. However, many apps are being developed every single day and only a few of them become profitable. It is important for developers to be able to predict the success of their app and incorporate features which makes an app successful. Before any such predictive-study can be done, it is necessary to do EDA and data-preprocessing on the apps data available for google app store applications. From the collected apps data and user ratings from the app stores, let's try to extract insightful information
 
-Objective:
+### Objective:
 The Goal is to explore the data and pre-process it for future use in any predictive analytics study.
 
-Attribute Description :
+### Attribute Description :
 App --> Application name
 Category --> Category the app belongs to.
 Rating --> Overall user rating of the app
